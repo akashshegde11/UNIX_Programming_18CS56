@@ -1,0 +1,87 @@
+alias   Define or display aliases
+ar      Create and maintain library archives
+at      Execute commands at a later time
+awk     Pattern scanning and processing language
+batch   Schedule commands to be executed in a batch queue
+bc      Arbitrary-precision arithmetic language
+bg      Run jobs in the background
+cal     Print a calendar
+cat     Concatenate and print files
+cd      Change the working directory
+chgrp   Change the file group ownership
+chmod   Change the file modes/attributes/permissions
+chown   Change the file ownership
+cp      Copy files
+crontab Schedule periodic background work
+cut     Cut out selected fields of each line of a file
+date    Display the date and time
+dd      Convert and copy a file
+df      Report free disk space
+diff    Compare two files
+dirname Return the directory portion of a pathname
+du      Estimate file space usage
+echo    Write arguments to standard output
+env     Set the environment for command invocation
+expr    Evaluate argument as an expression
+false   Return false value
+fg      Run jobs in the foreground
+file    Determine file type
+find    Find files
+getopts Parse utility options
+grep    Search text for a pattern
+hash    Hash database access method
+head    Copy the first part of files
+id      Return user identity
+join    Merges two sorted text files based on the presence of a common field
+kill    Terminate processes
+lex     Generate programs for lexical tasks
+link    Create a hard link to a file
+ln      Link files
+logname Return the user's login name
+lp      Send files to a printer
+ls      List directory contents
+make    Maintain, update and regenerate groups of programs
+man     Display system documentation
+mkdir   Create directories
+mkfifo  Create FIFO special files
+more    Display files on a page-by-page basis
+mv      Move or rename files
+nice    Invoke a utility with an altered nice value
+nl      Line numbering filter
+nohup   Invoke a utility immune to hangups
+od      Dump files in octal format
+paste   Merge corresponding lines of files
+patch   Apply changes to files
+pr      Print files
+printf  Write formatted output
+ps      Report process status
+pwd     Print working directory
+read    Read a line from standard input
+rm      Remove files
+rmdir   Remove directories, if they are empty
+sed     Stream editor
+sh      Shell, the standard command language interpreter
+sleep   Suspend execution for an interval
+sort    Sort, merge or sequence-check text files
+split   Split files into pieces
+strip   Remove unnecessary information from executable files
+stty    Set the options for a terminal
+tail    Copy the last part of a file
+tee     Duplicate the standard output
+test    Evaluate expression for testing
+touch   Create a new file
+tput    Change terminal characteristics
+tr      Translate characters
+true    Return true value
+type    Return the location of a command
+umask   Get or set the file mode creation mask
+uname   Return system name
+uniq    Filter out repeated lines in a file
+unlink  Remove links from a file
+vi      Visual display editor
+wait    Await process completion
+wc      Line, word and character count
+who     Display the users on the system
+write   Write to user's terminal
+xargs   Construct argument lists and invoke utility
+yacc    Yet another compiler compiler
