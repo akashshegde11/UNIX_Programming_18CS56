@@ -4,11 +4,11 @@ Course contents for UNIX Programming (18CS56).
 
 Directories:
 
-1. Notes - notes for all 5 modules of the course.
+1. [Notes](https://github.com/akashshegde11/UNIX_Programming_18CS56/tree/main/Notes) - notes for all 5 modules of the course.
 
-2. Slides - class slides for all 5 modules of the course.
+2. [Slides](https://github.com/akashshegde11/UNIX_Programming_18CS56/tree/main/Slides) - class slides for all 5 modules of the course.
 
-3. Additional Materials - syllabus, crossword puzzle and practice quiz on wildcards.
+3. [Additional Materials](https://github.com/akashshegde11/UNIX_Programming_18CS56/tree/main/Additional%20Materials) - syllabus, crossword puzzle and practice quiz on wildcards.
 
 
 
